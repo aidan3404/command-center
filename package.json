@@ -1,0 +1,7 @@
+package.json
+index.html
+src/main.jsx
+src/App.jsx
+src/index.css
+tailwind.config.js
+postcss.config.js
